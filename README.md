@@ -2,7 +2,7 @@
 This project deals with the problem of waste management in smart cities, where the garbage collection system is not optimized. This project enables the organizations to meet their needs of smart garbage management systems. This system allows the user to know the fill level of each garbage bin in a locality or city at all times, to give a cost-effective and time-saving route to the truck drivers. 
 
 ## Objectives
-• The proposed system would be able to automate the solid waste monitoring process and management of the overall collection process using IOT (Internet of Things). <br>
+• The proposed system would be able to automate the solid waste monitoring process and management of the overall collection process. <br>
 • The Proposed system consists of main subsystems namely Smart Trash System(STS) and Smart Monitoring and Controlling Hut(SMCH). <br>
 • In the proposed system, whenever the waste bin gets filled this is acknowledged by placing the circuit at the waste bin, which transmits it to the receiver at the desired place in the area or spot. <br>
 • In the proposed system, the received signal indicates the waste bin status at the monitoring and controlling system. <br>
